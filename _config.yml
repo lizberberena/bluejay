@@ -3,9 +3,9 @@ title:              "Blue Jay: Cyber Harassment Survival Guide"
 description:        "A guide on how to survive cyber harassment with helpful resources on preventing and fighting the many different kinds of cyber harassment."
 
 # Author Info
-author_name:        "Liz Lorena"
-author_email:       liz@lizlorena.com
-github_username:    liz-lorena
+author_name:        "Liz Berberena"
+author_email:       lizlberberena@gmail.com
+github_username:    lizberberena
 
 # Site Settings
 baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
@@ -21,7 +21,7 @@ paginate: 30
 disqus:
     # Leave shortname blank to disable comments site-wide.
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: lizlorena
+    shortname: lizberberena
 
 # Site Build
 highlighter: rouge
